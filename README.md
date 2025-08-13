@@ -104,6 +104,3 @@ A simple LSTM-based RNN implemented using PyTorch.
 
 ---
 
-## Contact
-
-Feel free to reach out if you have questions or suggestions!
