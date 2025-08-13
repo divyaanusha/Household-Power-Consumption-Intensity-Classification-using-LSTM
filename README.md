@@ -81,7 +81,7 @@ A simple LSTM-based RNN implemented using PyTorch.
 - Training loss steadily decreases with an appropriate stride (e.g., stride=10).
 - Step size (stride) affects model learning speed and redundancy in training data.
 - Learning rate tuning is critical to avoid plateaus and improve convergence.
-- Final test accuracy is printed after training completes.
+- Final test accuracy is 93%
 
 ---
 
