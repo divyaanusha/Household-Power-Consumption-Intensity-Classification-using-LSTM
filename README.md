@@ -87,7 +87,6 @@ A simple LSTM-based RNN implemented using PyTorch.
 
 ## Future Work
 
-- Hyperparameter tuning (hidden size, batch size, learning rate schedules).
 - Implement padding and masking for variable-length sequences.
 - Explore alternative architectures like GRU or Transformer.
 - Extend analysis with feature importance or explainability methods.
